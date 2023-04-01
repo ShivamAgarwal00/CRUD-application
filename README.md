@@ -14,9 +14,33 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-## The Home page:-
+## Add User Page:-
 
-![1](https://user-images.githubusercontent.com/124357186/227756172-e287ea91-f4ff-4837-bcbb-ff91909b8748.png)
+![1 add user](https://user-images.githubusercontent.com/124357186/229305679-285453ee-a2ed-41db-89fd-b58fb9fd1e1b.png)
+
+## 1 user:-
+![code for 1 data](https://user-images.githubusercontent.com/124357186/229305926-7ee759ab-47d9-421e-a44d-6c9b5e58f87e.png)
+
+## Data in mongodb:-
+![1 data in db](https://user-images.githubusercontent.com/124357186/229305801-9a7e9fda-8e3a-4679-b237-ef7dccf3264d.png)
+
+## 2 user adding:-
+![pankaj](https://user-images.githubusercontent.com/124357186/229305944-299fcd6e-b9ef-44c5-a190-217ae872b4b3.png)
+
+## More Data in MongoCluster:-
+![2 data in db](https://user-images.githubusercontent.com/124357186/229305828-0fade6ba-49fd-4599-bf27-4f3e44d416af.png)
+
+## 3 user:-
+![nawz](https://user-images.githubusercontent.com/124357186/229305979-eeae54a8-05c0-410d-8cd6-c6a2ba0497ba.png)
+
+## All Users page:-
+![all users after adding](https://user-images.githubusercontent.com/124357186/229306001-351542c6-98f8-4405-a411-a768da50fcb6.png)
+
+## Delete 2 user:-
+![Screenshot (1396)](https://user-images.githubusercontent.com/124357186/229306298-003492d6-42f5-4816-bc7c-85b91fae473e.png)
+
+## Auto remove from DB:-
+![Screenshot (1397)](https://user-images.githubusercontent.com/124357186/229306330-9cd47ee6-27ef-444b-8838-7a7154970ef7.png)
 
 ### `npm test`
 
