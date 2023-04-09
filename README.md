@@ -43,11 +43,13 @@ You will also see any lint errors in the console.
 
 
 ## Delete 2 user:-
-![Screenshot (1396)](https://user-images.githubusercontent.com/124357186/230781837-5b17edb5-858d-4453-97ba-c2b9858087b2.png)
+![Screenshot (1396)](https://user-images.githubusercontent.com/124357186/230782000-34e7abff-1d26-42a9-8ea7-84478cb1b686.png)
+
 
 
 ## Auto remove from DB:-
-![Screenshot (1397)](https://user-images.githubusercontent.com/124357186/230781843-4fd3b5db-1483-4ec5-bf7e-ec4b108567f6.png)
+![Screenshot (1397)](https://user-images.githubusercontent.com/124357186/230782010-9f4d7fa9-0885-4f80-9174-041010273a63.png)
+
 
 
 ### `npm test`
