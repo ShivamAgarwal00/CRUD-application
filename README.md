@@ -19,28 +19,36 @@ You will also see any lint errors in the console.
 ![1 add user](https://user-images.githubusercontent.com/124357186/229305679-285453ee-a2ed-41db-89fd-b58fb9fd1e1b.png)
 
 ## 1 user:-
-![code for 1 data](https://user-images.githubusercontent.com/124357186/229305926-7ee759ab-47d9-421e-a44d-6c9b5e58f87e.png)
+[code for 1 data](https://user-images.githubusercontent.com/124357186/230781773-0bfd508c-0582-4e8a-a474-8cefabbbad79.png)
+
 
 ## Data in mongodb:-
-![1 data in db](https://user-images.githubusercontent.com/124357186/229305801-9a7e9fda-8e3a-4679-b237-ef7dccf3264d.png)
+![1 data in db](https://user-images.githubusercontent.com/124357186/230781793-71f6ee67-c470-4c9a-b691-d8a566f92e15.png)
+
 
 ## 2 user adding:-
-![pankaj](https://user-images.githubusercontent.com/124357186/229305944-299fcd6e-b9ef-44c5-a190-217ae872b4b3.png)
+![pankaj](https://user-images.githubusercontent.com/124357186/230781804-86ad22bd-e57c-40e4-8625-9d9693f32382.png)
+
 
 ## More Data in MongoCluster:-
-![2 data in db](https://user-images.githubusercontent.com/124357186/229305828-0fade6ba-49fd-4599-bf27-4f3e44d416af.png)
+![2 data in db](https://user-images.githubusercontent.com/124357186/230781812-0be9d65c-15ea-46d3-82e3-3093e4b22464.png)
+
 
 ## 3 user:-
-![nawz](https://user-images.githubusercontent.com/124357186/229305979-eeae54a8-05c0-410d-8cd6-c6a2ba0497ba.png)
+![nawz](https://user-images.githubusercontent.com/124357186/230781819-95246c02-e081-48c9-93d2-22d78441fa52.png)
+
 
 ## All Users page:-
-![all users after adding](https://user-images.githubusercontent.com/124357186/229306001-351542c6-98f8-4405-a411-a768da50fcb6.png)
+![all users after adding](https://user-images.githubusercontent.com/124357186/230781827-0d6d603e-8973-4d41-9be8-c439b0835b66.png)
+
 
 ## Delete 2 user:-
-![Screenshot (1396)](https://user-images.githubusercontent.com/124357186/229306298-003492d6-42f5-4816-bc7c-85b91fae473e.png)
+![Screenshot (1396)](https://user-images.githubusercontent.com/124357186/230781837-5b17edb5-858d-4453-97ba-c2b9858087b2.png)
+
 
 ## Auto remove from DB:-
-![Screenshot (1397)](https://user-images.githubusercontent.com/124357186/229306330-9cd47ee6-27ef-444b-8838-7a7154970ef7.png)
+![Screenshot (1397)](https://user-images.githubusercontent.com/124357186/230781843-4fd3b5db-1483-4ec5-bf7e-ec4b108567f6.png)
+
 
 ### `npm test`
 
