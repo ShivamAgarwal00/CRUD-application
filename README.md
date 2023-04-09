@@ -15,8 +15,8 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Add User Page:-
+![1 add user](https://user-images.githubusercontent.com/124357186/230782081-7ef325dc-3066-4325-b719-792885122c0c.png)
 
-![1 add user](https://user-images.githubusercontent.com/124357186/229305679-285453ee-a2ed-41db-89fd-b58fb9fd1e1b.png)
 
 ## 1 user:-
 [code for 1 data](https://user-images.githubusercontent.com/124357186/230781773-0bfd508c-0582-4e8a-a474-8cefabbbad79.png)
